@@ -1,0 +1,19 @@
+.btn {
+  background-color: #F1BD45;
+  border-radius: 3px;
+  border: none;
+  text-align: center;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.14;
+
+  &--search {
+    border-radius: 0px 3px 3px 0px;
+  }
+
+  &--close {
+    border: 1px solid #DEDEDE;
+    background-color: #FFFFFF;
+  }
+}
